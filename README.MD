@@ -1,6 +1,7 @@
 # Motivational Quote Generator
 
 This project displays a motivational quote as a notification every time the computer starts. It uses a Python script that is set to run at startup via a batch file placed in the Windows Startup folder.
+It create a file named last_run.txt, so it can't run twice a day. You can find the file in users home
 
 ## Prerequisites
 
